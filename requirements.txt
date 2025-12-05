@@ -1,0 +1,8 @@
+clickhouse-connect==0.7.16
+streamlit==1.32.0
+pandas==2.2.1
+plotly==5.19.0
+geoip2==4.8.0
+user-agents==2.2.0
+watchdog==4.0.0
+python-dateutil==2.9.0.post0
